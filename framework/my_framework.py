@@ -23,7 +23,6 @@ def start_thread(conn, addr):
         message += data
     
     message = message.decode()
-    print(message)
     
     splited_request = message.split("\n")
 
@@ -87,6 +86,9 @@ def start_thread(conn, addr):
 
 def start_server(host, port):
     HOST = (host, port)
+
+    wraped_socket = ssl.create_default_context()
+    server = wraped_socket.wrap_socket(server, keyfile="ca.key", certfile="ca.crt", server_hostname=HOST[0])
 
     server.bind(HOST)
     server.listen()
