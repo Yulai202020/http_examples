@@ -1,10 +1,9 @@
-import math, signal, sys, threading, json
 from socket import *
-from urllib.parse import unquote, parse_qs
-import ssl
-import traceback
-import logging
 from queue import Queue
+from jinja2 import Template
+from urllib.parse import unquote, parse_qs
+
+import threading, traceback, logging, signal, json, sys, ssl
 
 functions = {}
 templates_dir = "templates/"
@@ -12,6 +11,12 @@ templates_dir = "templates/"
 logging_queue = Queue()
 logger = logging.getLogger("Server")
 server = socket(AF_INET, SOCK_STREAM)
+
+def render_template(html, variables):
+    template = Template(html)
+    rendered = template.render(variables)
+
+    return rendered
 
 def read_file(file):
     with open(file) as f:
@@ -29,7 +34,6 @@ def exit_handler(signum, frame):
     sys.exit(0)
 
 def logging_thread(is_logging, logsfile_path):
-
     if is_logging:
         logging.basicConfig(filename=logsfile_path, encoding='utf-8', level=logging.DEBUG)
     else:
@@ -125,7 +129,6 @@ def start_thread(conn, addr):
                 if i[1][:17] == "application/json\r":
                     try:
                         posted_json = json.loads("\n".join(splited_request[splited_request.index("\r"):]))
-                        print(posted_json)
                     except:
                         html = read_file(templates_dir + "json_format_error.html")
                         conn.sendall(b"HTTP/1.0 400 OK\r\n\r\n" + html.encode())
@@ -141,14 +144,29 @@ def start_thread(conn, addr):
                     posted_json = {key: value[0] for key, value in parsed_query.items()}
 
                 else:
-                    html = read_file(templates_dir + "no_json_error.html")
+                    html = read_file(templates_dir + "invalid_format_error.html")
                     conn.sendall(b"HTTP/1.0 400 OK\r\n\r\n" + html.encode())        
                     conn.close()
                     return
+        
+        getted_data = {}
+        
+        if link.find("?") != -1:
+            # parse link
+            link = unquote(link)
+            a = link.index("?")
+            
+            data = link[a+1:]
+            
+            link = link[:a]
+
+            # get data to dict
+            parsed_query = parse_qs(data)
+            getted_data = {key: value[0] for key, value in parsed_query.items()}
 
         try:
             if link in functions.keys():
-                msg = functions[link](posted_json)
+                msg = functions[link](get_data=getted_data, post_data=posted_json)
                 conn.sendall(b"HTTP/1.0 200 OK\r\n\r\n" + msg.encode())
             else:
                 html = read_file(templates_dir + "404.html")
@@ -163,16 +181,19 @@ def start_thread(conn, addr):
     elif link.find("?") != -1:
         # parse link
         link = unquote(link)
-        link = link.split("?")
+
+        a = link.index("?")
+        data = link[a+1:]
+
+        link = link[:a]
 
         # get data to dict
-        data = link[1]
         parsed_query = parse_qs(data)
         result = {key: value[0] for key, value in parsed_query.items()}
 
         try:
-            if link[0] in functions.keys():
-                msg = functions[link[0]](result)
+            if link in functions.keys():
+                msg = functions[link](get_data=result)
                 conn.sendall(b"HTTP/1.0 200 OK\r\n\r\n" + msg.encode())
             else:
                 html = read_file(templates_dir + "404.html")
