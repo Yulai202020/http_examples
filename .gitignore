@@ -1,3 +1,13 @@
 send_json.py
-ca.crt
-ca.key
+*.pem
+*.csr
+*.txt
+.py
+1.py
+.lua
+*.crt
+*.srl
+*.key
+binfile
+*.txt
+*.log
