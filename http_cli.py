@@ -8,7 +8,6 @@ s.connect(HOST)
 
 # send message
 s.sendall(b"GET 127.0.0.1 HTTP/1.0\r\n\r\n")
-
 # get message
 message = ""
 

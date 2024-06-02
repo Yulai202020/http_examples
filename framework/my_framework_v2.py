@@ -2,6 +2,7 @@ from socket import *
 from queue import Queue
 from jinja2 import Template
 from urllib.parse import unquote, parse_qs
+from requests_toolbelt.multipart import decoder
 
 import threading, traceback, logging, signal, json, sys, ssl
 
@@ -17,6 +18,9 @@ def render_template(html, variables):
     rendered = template.render(variables)
 
     return rendered
+
+def _join(list_to_join, symbol_join_with):
+    return symbol_join_with.join(list_to_join)
 
 def read_file(file):
     with open(file) as f:
@@ -57,10 +61,6 @@ def logging_thread(is_logging, logsfile_path):
                 logger.info("Unknown logging method.")
 
 def start_thread(conn, addr):
-    def find_last_occurrence(lst, value):
-        indices = [i for i, x in enumerate(lst) if x == value]
-        return indices[-1] if indices else -1
-
     splited_request = []
     is_POST = False
     is_GET = False
@@ -70,41 +70,76 @@ def start_thread(conn, addr):
 
     while True:
         # reading
-        message = ''
+        message = b''
         
         data = conn.recv(4096)
         if not data:
             break
 
-        message += data.decode()
+        message += data
 
         # split
-        splited_request = message.split("\n")
-        id_of_start_read = find_last_occurrence(splited_request, "\r")
-        tmp = splited_request[1:id_of_start_read]
+        splited_request = message.split(b"\n")
 
         # get headers
-        for i in tmp:
-            i = i[:-1]
-            i = i.split(": ")
-            headers[i[0]] = ": ".join(i[1:])
+        for i in splited_request:
+            index = i.find(b": ")
+            if index == -1:
+                continue
 
+            headers[i[:index]] = i[index+2:]
         # get method
-        if splited_request[0].startswith("GET") and "\r\n\r\n" in message:
+        if splited_request[0].startswith(b"GET") and b"\r\n\r\n" in message:
+            message = message.decode()
             is_GET = True
             break
 
-        # post method
-        elif splited_request[0].startswith("POST") and "\r\n\r\n" in message:
-            lenght_of_content = 0
+        # post method   
+        elif splited_request[0].startswith(b"POST") and b"\r\n\r\n" in message:
+            # get content-lenght
+            length_of_content = 0
+            is_Content_length = False
+
+            index = splited_request.index(b"\r") + 1
+            read = b"\n".join(splited_request[index:])
 
             for i in splited_request:
-                if i.startswith("Content-Length: "):
-                    lenght_of_content = int(i[16:-1])
+                if i.startswith(b"Content-Length: "):
+                    length_of_content = int(i[16:-1])
+                    is_Content_length = True
 
-            read = "\n".join(splited_request[id_of_start_read+1:])
+            if not is_Content_length:
+                while True:
+                    tmp_data = conn.recv(1024)
+                    if not tmp_data:
+                        break
+                    message += tmp_data.decode()
+                    splited_request = message.split(b"\n")
 
-            if len(read) != lenght_of_content:
+                read = b"\n".join(splited_request[index:])
+
+            else:
+                # get body
+                left_read = length_of_content - len(read)
+
+                if left_read > 0:
+                    count = 0
+                    max_buffer_size = 16384
+
+                    while True:
+                        message += conn.recv(max_buffer_size)
+
+                        count += 1
+
+                        if left_read - count * max_buffer_size < 0:
+                            break
+
+                    splited_request = message.split(b"\n")
+                    read = b"\n".join(splited_request[index:])
+
+            # if bodies lenght doesnt equal excepted lenght we raise error
+            print(len(read))
+            if len(read) != length_of_content:
                 html = read_file(templates_dir + "invalid_json_length.html")
                 conn.sendall(b"HTTP/1.0 400 OK\r\n\r\n" + html.encode())
 
@@ -113,36 +148,89 @@ def start_thread(conn, addr):
 
             is_POST = True
             break
-
+    
     # get link
-    for i in splited_request:
-        if i.startswith("GET "):
-            link = i[4:-10]
-        elif i.startswith("POST "):
-            link = i[5:-10]
-
+    if splited_request[0].startswith(b"GET"):
+        link = splited_request[0][4:-10].decode()
+    elif splited_request[0].startswith(b"POST"):
+        link = splited_request[0][5:-10].decode()
+    
     # get posted data
     if is_POST:
         for i in splited_request:
-            i = i.split(": ")
+            i = i.decode().split(": ")
             if i[0] == "Content-Type" :
-                if i[1][:17] == "application/json\r":
+                # if content type equal json we parse json to dictionary
+                if "application/json" in i[1]:
                     try:
-                        posted_json = json.loads("\n".join(splited_request[splited_request.index("\r"):]))
+                        index = splited_request.index(b"\r") + 1
+                        posted_json = json.loads(b"\n".join(splited_request[index:]).decode())
                     except:
                         html = read_file(templates_dir + "json_format_error.html")
                         conn.sendall(b"HTTP/1.0 400 OK\r\n\r\n" + html.encode())
                         conn.close()
                         return
-             
-                elif i[1][:34] == "application/x-www-form-urlencoded\r":
-                    index = find_last_occurrence(splited_request, "\r")
 
-                    data = "\n".join(splited_request[index+1:])
+                    break
+
+                # if content type equal form url we parse it to dictionary
+                elif "application/x-www-form-urlencoded" in i[1]:
+                    index = splited_request.index(b"\r") + 1
+                    data = b"\n".join(splited_request[index:]).decode()
                     parsed_query = parse_qs(data)
 
                     posted_json = {key: value[0] for key, value in parsed_query.items()}
 
+                    break
+                
+                # parse multi part
+                elif "multipart/form-data" in i[1]:
+                    index = splited_request.index(b"\r") + 1
+
+                    multipart_string = b"\n".join(splited_request[index:])
+                    decoded = decoder.MultipartDecoder(multipart_string, i[1])
+
+                    field_name = decoded.parts
+
+                    data = {}
+                    for i in field_name:
+                        result = {}
+
+                        # data of file
+                        if b"Content-Disposition" in i.headers:
+                            files_data = i.headers[b"Content-Disposition"].decode().split("; ")
+                            disposition = {"type": files_data[0]}
+                            for j in files_data:
+                                if "=" in j:
+                                    index = j.index("=")
+                                    disposition[j[:index]] = j[index + 1:]
+                            
+                            result["disposition"] = disposition
+
+                        # content type
+                        if b"Content-Type" in i.headers:
+                            content_type = i.headers[b"Content-Type"].decode()
+                            result["content-type"] = content_type
+
+                        # is file
+                        # if "attachment" in files_data:
+                        #     pass
+                            # print("its file")
+                        # else:
+                        #     pass
+                            # print("its not file")
+
+                        # content
+                        content = i.content
+                        result["content"] = content
+
+                        # add to data
+                        data[result["disposition"]["name"][1:-1]] = result
+
+                    posted_json = data
+                    break
+
+                # if its another one we raise error cuz we cant parse it
                 else:
                     html = read_file(templates_dir + "invalid_format_error.html")
                     conn.sendall(b"HTTP/1.0 400 OK\r\n\r\n" + html.encode())        
@@ -150,12 +238,13 @@ def start_thread(conn, addr):
                     return
         
         getted_data = {}
-        
+
+        # if ? in link
         if link.find("?") != -1:
             # parse link
             link = unquote(link)
             a = link.index("?")
-            
+
             data = link[a+1:]
             
             link = link[:a]
@@ -178,7 +267,7 @@ def start_thread(conn, addr):
             conn.sendall(b"HTTP/1.0 500 Internal Server Error\r\n\r\nServer raised error: " + type(err).__name__.encode())
 
     # get "get"ted data
-    elif link.find("?") != -1:
+    elif is_GET and link.find("?") != -1:
         # parse link
         link = unquote(link)
 

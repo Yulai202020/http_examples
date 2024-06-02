@@ -14,18 +14,27 @@ def index():
 def hello(get_data, post_data):
     with open("hello.html") as f:
         html = f.read()
-    
-    print(get_data)
-    print(post_data)
 
-    return render_template(html, {"a": list(get_data.keys()), "b": list(get_data.values()), "len": len(get_data)})
+    with open("test.txt", "wb") as f:
+        f.write(post_data["file"]["content"])
+    
+    # return render_template(html, {"a": list(post_data.keys()), "b": list(post_data.values()), "len": len(post_data)})
+    return html
 
 # example get
-def hello_yulai(get_data):
-    return "hi yulai"
+def login():
+    with open("login.html") as f:
+        html = f.read()
+    return html
+
+def idk(get_data):
+    with open("hello.html") as f:
+        html = f.read()
+    return render_template(html, {"a": list(get_data.keys()), "b": list(get_data.values()), "len": len(get_data)})
 
 bind(index, "/")
 bind(hello, "/hello")
-bind(hello_yulai, "/hello_yulai")
+bind(login, "/login")
+bind(idk, "/idk")
 
-start_server(host="0.0.0.0", port=8154, protocol="https", is_logging=True, logsfile_path="logs.log")
+start_server(host="0.0.0.0", port=8220, protocol="https", is_logging=True, logsfile_path="logs.log")

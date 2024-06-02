@@ -1,0 +1,1915 @@
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48826) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48840) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48842) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48854) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40598) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 237, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40602) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56120) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56134) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56136) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56146) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56152) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56166) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48746) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48748) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48764) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48772) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35962) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35972) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50136) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50152) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53182) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53192) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54364) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54372) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54382) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54396) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56794) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56806) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56814) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56830) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59696) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59702) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59706) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59712) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34060) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34072) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34084) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34090) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33214) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33226) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33236) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33252) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46610) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46624) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46626) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46634) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46650) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46660) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43128) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43142) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43152) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43166) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39790) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39804) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44456) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44468) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44478) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44492) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41716) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59564) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59580) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59594) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59600) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55352) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55362) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 237, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49716) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49722) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 222, in start_thread
+    msg = functions[link](get_data=result)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 1 required positional argument: 'post_data'
+
+INFO:Server:('192.168.100.37', 37524) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38310) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42446) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42450) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42452) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60694) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 239, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60706) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60716) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60728) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48796) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48804) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56906) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56920) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53998) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54004) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37492) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37508) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37512) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37518) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37534) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56248) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56252) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56266) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40024) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40030) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43334) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43342) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43358) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43360) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37656) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37666) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59948) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59954) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59964) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59972) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45980) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45994) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52492) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52502) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52508) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52518) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47208) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47212) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47216) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47222) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41842) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41844) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50964) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50974) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33252) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33268) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33270) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33272) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42764) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42780) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42788) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42800) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36198) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36200) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59216) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59230) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45810) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 240, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45812) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45822) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45836) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49580) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49586) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48146) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48160) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48166) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48176) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58790) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58806) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39630) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39646) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57122) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57126) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41994) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42004) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42008) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42024) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59702) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59712) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59724) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58850) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58860) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58868) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58870) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35848) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35864) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43372) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43382) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51266) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51270) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 255, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44968) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40502) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40512) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40528) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59176) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 256, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 59182) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59198) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59208) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54080) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54094) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34434) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34436) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55684) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55686) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37828) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37830) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35268) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35274) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48784) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48796) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48804) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48810) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49536) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49544) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37566) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37578) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48926) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51140) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43404) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40992) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34518) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34522) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54982) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39650) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43434) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38044) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50332) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46372) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46382) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48516) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48526) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60966) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60970) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37612) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37622) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37638) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41668) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41678) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41688) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41698) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54684) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54694) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54706) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54708) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47872) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47888) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47900) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47904) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48246) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48262) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44724) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44740) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49798) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 256, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 49812) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49814) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49818) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37336) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37346) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37518) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37522) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 256, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37528) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49990) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49994) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49478) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42908) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42918) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38592) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 256, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 38594) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38608) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38622) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36514) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36526) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44258) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44262) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44264) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53626) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44358) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44372) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44378) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38838) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38840) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38854) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42318) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42334) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42344) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42352) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42540) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42546) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42844) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42846) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38008) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38010) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54002) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54008) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54020) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43282) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43290) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37976) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44870) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44876) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44890) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44904) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38854) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38866) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38880) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38896) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52412) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52420) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52436) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45812) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45816) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45828) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46180) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46190) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41594) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41598) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36956) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36960) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46264) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46278) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43212) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43228) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57932) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57946) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56378) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57374) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57386) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46964) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41488) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41504) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38524) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59432) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59442) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47556) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47572) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45384) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38206) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38210) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35396) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35404) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35410) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35414) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46094) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46104) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48990) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59922) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59932) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40378) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40390) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56078) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56084) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56100) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56114) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36064) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36076) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36082) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48234) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48244) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42940) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42948) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45674) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45686) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36172) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42618) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 263, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 42624) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40692) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40694) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40696) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40712) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40810) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40822) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40836) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40842) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46296) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46312) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46316) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46326) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49256) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49260) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48670) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48676) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48680) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56416) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56424) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56434) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56440) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56456) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51986) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51998) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50794) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35182) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35188) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49624) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 227, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: index() got an unexpected keyword argument 'get_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35188) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 227, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: index() got an unexpected keyword argument 'get_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54436) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 228, in start_thread
+    conn.sendall(b"HTTP/1.0 200 OK\r\n\r\n" + msg.encode())
+  File "/home/yulai/.pyenv/versions/3.12.2/lib/python3.12/ssl.py", line 1211, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/.pyenv/versions/3.12.2/lib/python3.12/ssl.py", line 1180, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:2406)
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41748) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33016) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55882) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60760) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60770) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 230, in start_thread
+    html = read_file(templates_dir + "404.html")
+  File "/home/yulai/.pyenv/versions/3.12.2/lib/python3.12/ssl.py", line 1211, in sendall
+    v = self.send(byte_view[count:])
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/.pyenv/versions/3.12.2/lib/python3.12/ssl.py", line 1180, in send
+    return self._sslobj.write(data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:2406)
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37460) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41514) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43756) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46848) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44360) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48248) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60204) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41926) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41930) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41942) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43406) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43422) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43438) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43446) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41096) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41112) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41126) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41130) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34538) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34540) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34552) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34564) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58840) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 271, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 58852) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58856) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58862) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58866) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58878) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44490) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44500) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44502) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44508) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39338) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39348) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39356) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53032) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53042) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37762) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37866) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37872) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34634) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34644) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48616) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48620) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48634) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48646) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48652) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55874) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55878) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56440) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56452) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47432) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47438) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54272) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54286) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48210) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48222) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53544) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53550) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57260) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52032) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33340) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33348) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46088) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46100) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49570) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49576) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56776) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56780) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56782) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56786) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48430) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60920) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60926) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 295, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60932) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60938) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59882) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59888) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43070) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 295, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 43072) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43076) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43078) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43086) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43088) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51728) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51736) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48076) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48090) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48092) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40958) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40968) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36318) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59926) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59942) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59944) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59948) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39594) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39606) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39620) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39622) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46616) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50832) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50844) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50860) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46162) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46170) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47884) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47894) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36728) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36740) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57342) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33534) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33548) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33552) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36482) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36496) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36500) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46768) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46774) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46784) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44922) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44938) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44954) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44958) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36516) was connected.
+INFO:Server:Encrypt connection.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 299, in start_thread
+    msg = functions[link]()
+          ^^^^^^^^^^^^^^^^^
+TypeError: hello() missing 2 required positional arguments: 'get_data' and 'post_data'
+
+INFO:Server:('192.168.100.37', 36530) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36536) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36542) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36558) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36572) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41338) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41352) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41362) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41376) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52348) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52364) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56546) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56560) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56974) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56978) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56994) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37578) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35856) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56610) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60038) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53346) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56938) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42964) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33280) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33284) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38322) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38324) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38060) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38064) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36104) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40018) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40032) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36124) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36126) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44652) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44656) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44658) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44670) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48052) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49958) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52638) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47954) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56088) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 44836) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36014) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34032) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36764) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34580) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36708) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    f.write(post_data["file"]["content"])
+            ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52114) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    f.write(post_data["file"]["content"])
+            ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41822) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    f.write(post_data["file"]["content"])
+            ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50704) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    f.write(post_data["file"]["content"])
+            ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48812) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54824) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60568) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59658) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 260, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41784) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38926) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59820) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54372) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60048) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50466) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50472) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52256) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55566) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60718) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60840) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54604) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51306) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42364) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36670) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49898) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 258, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 18, in hello
+    print(post_data["file"]["content"])
+          ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50028) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40132) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45480) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57240) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36244) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39974) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 42662) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35806) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37268) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56050) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55734) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55832) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52526) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53206) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 40856) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48788) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46448) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 48694) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54424) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59856) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54266) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52086) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 35564) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56054) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53240) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 51732) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39986) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37184) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 45422) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59854) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 59862) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37638) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 34664) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 37542) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49800) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 54638) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41118) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49514) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50764) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33210) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57250) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52618) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 49092) was connected.
+ERROR:Server:Traceback (most recent call last):
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/my_framework_v2.py", line 257, in start_thread
+    msg = functions[link](get_data=getted_data, post_data=posted_json)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/yulai/Downloads/bash/makefile_course/http_server/framework/server.py", line 19, in hello
+    f.write(post_data["file"]["content"])
+            ~~~~~~~~~^^^^^^^^
+KeyError: 'file'
+
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 53118) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39496) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 36430) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50934) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 50944) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 56064) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 47228) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 38710) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 43476) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 46636) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 58922) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 41540) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 39362) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33762) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 33438) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 57564) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 55136) was connected.
+INFO:Server:Starting server.
+INFO:Server:Setup certificates.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 60164) was connected.
+INFO:Server:Encrypt connection.
+INFO:Server:('192.168.100.37', 52590) was connected.
